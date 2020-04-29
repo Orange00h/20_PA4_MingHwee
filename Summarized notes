@@ -4,3 +4,14 @@ It is a type of black box testing
 
 Integration testing is the combined  execution of two or more classes, packages, components, or subsystems that have been created by multiple programmers or programming teams
 It is a type of white box testing
+
+Acceptance testing
+What is acceptance Testing?
+The acceptance testing plan is created during the design phase and the actual testing is done after the system is fully developed and tested.
+
+Acceptance Testing is conducted by developers
+
+It is type of (blackbox/whitebox testing)
+both it fall under both
+
+
